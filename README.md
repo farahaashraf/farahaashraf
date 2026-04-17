@@ -1,13 +1,13 @@
-# Hi, I'm Farah :)  
-AI Engineer | Data Analyst  
+# Hi, hallo and 안녕 👋 I'm Farah :)  
+ML Engineer | Data Analyst  
 
 I build data-driven solutions using Machine Learning, SQL, and Power BI.  
 Passionate about turning raw data into meaningful insights and building intelligent systems.
 
 ---
 
-## 👩‍💻 About Me
-- 🎓 AI Graduate from Helwan University  
+## 🍀 About Me
+-  AI Graduate from Helwan University  
 -  Interested in Machine Learning, Data Analysis/Science
 -  Skilled in SQL, Power BI, and data-driven decision making  
 -  Currently working on Data Analysis and ML Projects
@@ -70,7 +70,7 @@ Automated essay scoring system using fine-tuned FLAN-T5 with LoRA adaptation tha
 ---
 
 
-## 📫 Connect with Me
+##  Connect with Me
 - LinkedIn: [www.linkedin.com/in/farahaashraf]  
 - Email: farah.ashraf.desouky@gmail.com
 
@@ -79,7 +79,7 @@ Automated essay scoring system using fine-tuned FLAN-T5 with LoRA adaptation tha
 
 --- 
 
-###  Beyond the Code :))
+### Beyond the Code :))
 
 -  Curious by nature — I genuinely enjoy learning new things and challenging myself   
 -  Currently learning German and Korean and exploring different cultures
