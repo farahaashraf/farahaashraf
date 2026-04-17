@@ -18,20 +18,25 @@ Passionate about turning raw data into meaningful insights and building intellig
 ##  Tech Stack
 
 **Languages:**  
-Python, SQL  
-
-**Data & Databases:**  
-Excel  
-
-**Data Visualization:**  
-Power BI , Pivot Tables 
+Python, SQL
 
 **Machine Learning & AI:**  
-Scikit-learn, NLP, Transformers (T5, BART), SentenceTransformers  
+Supervised & Unsupervised Learning, Classification, Regression, Clustering  
+
+**Data Analysis:**  
+Data Preprocessing & Cleaning, Feature Engineering
+
+**Machine Learning Frameworks:**  
+Scikit-learn, TensorFlow, Keras, PyTorch, Pandas, Numpy  
+
+**Data Visualization Tools:**  
+Power BI, Excel (Pivot Tables)  
+
+**Natural Language Processing (NLP):**  
+Text Processing, Sentiment Analysis, Language Modeling  
 
 **Tools & Platforms:**  
 Git, GitHub, Jupyter Notebook, Azure  
-
 ---
 
 ## 🚀 Projects
