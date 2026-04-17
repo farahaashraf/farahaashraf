@@ -15,19 +15,19 @@ Passionate about turning raw data into meaningful insights and building intellig
 
 ---
 
-##  Tech Stack
+## 🛠️ Tech Stack
 
 **Languages:**  
-Python, SQL
+Python, SQL  
 
 **Machine Learning & AI:**  
 Supervised & Unsupervised Learning, Classification, Regression, Clustering  
 
 **Data Analysis:**  
-Data Preprocessing & Cleaning, Feature Engineering
+Data Preprocessing & Cleaning, Feature Engineering  
 
 **Machine Learning Frameworks:**  
-Scikit-learn, TensorFlow, Keras, PyTorch, Pandas, Numpy  
+Scikit-learn, TensorFlow, Keras, PyTorch, Pandas, NumPy  
 
 **Data Visualization Tools:**  
 Power BI, Excel (Pivot Tables)  
@@ -37,6 +37,7 @@ Text Processing, Sentiment Analysis, Language Modeling
 
 **Tools & Platforms:**  
 Git, GitHub, Jupyter Notebook, Azure  
+
 ---
 
 ## 🚀 Projects
@@ -50,8 +51,6 @@ Git, GitHub, Jupyter Notebook, Azure
 🔗 [View Project](https://github.com/farahaashraf/ecommerce-data-analysis-sql-excel)
 
 ---
-
-
 
 ###  AI Learning Platform (Graduation Project)
 - Developed a microservice-based AI learning system  
