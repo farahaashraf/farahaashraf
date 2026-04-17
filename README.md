@@ -73,7 +73,6 @@ Automated essay scoring system using fine-tuned FLAN-T5 with LoRA adaptation tha
 - LinkedIn: [www.linkedin.com/in/farahaashraf]  
 - Email: farah.ashraf.desouky@gmail.com
 
----
 
 ⭐ Feel free to explore my repositories and connect!
 
