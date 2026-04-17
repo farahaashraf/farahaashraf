@@ -15,7 +15,7 @@ Passionate about turning raw data into meaningful insights and building intellig
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages:**  
 Python, SQL  
