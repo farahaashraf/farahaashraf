@@ -8,9 +8,10 @@ Passionate about turning raw data into meaningful insights and building intellig
 
 ## 👩‍💻 About Me
 - 🎓 AI Graduate from Helwan University  
--  Interested in Machine Learning, Data Analysis-Science and NLP  
--  Skille in SQL, Power BI, and data-driven decision making  
--  Currently working on Data Analysis and ML Projects   
+-  Interested in Machine Learning, Data Analysis/Science
+-  Skilled in SQL, Power BI, and data-driven decision making  
+-  Currently working on Data Analysis and ML Projects
+-  Pursuing The Google Professional Data Analysis Certificate 
 
 ---
 
